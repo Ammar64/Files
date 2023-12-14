@@ -1,0 +1,6 @@
+build
+build-mingw
+out
+.vscode
+.vs
+CMakeLists.txt.user
